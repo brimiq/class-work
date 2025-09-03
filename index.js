@@ -22,4 +22,8 @@ const studentProfile = {
   }
 };
 
-console.log(studentProfile.contacts.social.github)
+console.log(studentProfile.contact.social.github)
+console.log(studentProfile.courses[1].scores[2])
+console.log(studentProfile.courses[0].completed)
+console.log(studentProfile.courses[0].title)
+console.log(studentProfile.contact.email)
