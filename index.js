@@ -22,4 +22,4 @@ const studentProfile = {
   }
 };
 
-console.log('')
+console.log(studentProfile.contacts.social.github)
